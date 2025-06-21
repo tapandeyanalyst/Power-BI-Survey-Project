@@ -39,3 +39,25 @@
 |	Q12 - Highest Level of Education	|
 |	Q13 - Ethnicity	|
 
+## After analysing the data, we decided to take the following data signals:
+| List of signals choosen	|
+|	--------------	|
+|	unique_id	                                  |
+|	Time Taken (America/New_York)	              |
+|	Time Spent	                                |
+|	role	                                      |
+|	Q2 - Did you switch careers into Data?	    |
+|	current_salary	                            |
+|	industry	                                  |
+|	programming_language	                      |
+|	salary_rating	                              |
+|	work_life_balance_rating	                  |
+|	management_rating	                          |
+|	learning_rating	                            |
+|	moving_to_data_career	                      |
+|	job_preferences  	                          |
+|	age	                                        |
+|	country  	                                  |
+|	highest_education	                          |
+
+
